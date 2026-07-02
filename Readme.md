@@ -205,19 +205,7 @@ Main Menu
 
 # 📷 Output
 
-The repository includes an **Output.pdf** file containing sample execution of the application.
-
-You can also add screenshots here:
-
-```
-screenshots/
-
-attendance-menu.png
-
-attendance-report.png
-
-percentage-report.png
-```
+The repository includes an **Output.pdf** file containing execution of the console application.
 
 ---
 
